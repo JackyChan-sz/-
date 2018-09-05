@@ -24,6 +24,9 @@ int main()
 }
 
 /* 可运行代码 */
+#include <iostream>
+#include <cstring>
+using namespace std;
 int main()
 {
 	//char**p, *m;
